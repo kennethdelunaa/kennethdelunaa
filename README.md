@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennethdelunaa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me kenneth.deluna007@gmail.com or https://www.linkedin.com/in/kennethdeluna/
 
 <!---
